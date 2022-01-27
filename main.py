@@ -1,10 +1,8 @@
-from cgitb import text
-import string
+ 
+    
 from tkinter import *
 from tkinter import ttk
 from tkinter import font
-from turtle import color, right
-from wsgiref.validate import validator
 
 #   cores
 cor1 = "#363636"
