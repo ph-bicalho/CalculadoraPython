@@ -105,13 +105,4 @@ b_13.place(x=73*2, y=70*4)
 b_14=Button(frame_corpo, command= calcular , text="=", width=10, height=4, bg=cor2, fg=cor4)
 b_14.place(x=73*3, y=70*4)
 
-
-
-
-
-
-
-
-
-
 janela.mainloop()
